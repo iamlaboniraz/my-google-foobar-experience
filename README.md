@@ -9,7 +9,7 @@ There are 5 levels, each with a different number of challenges.
 
 The challenge consists of 5 levels consisting of algorithm problems. It was really a great experience so far. The first few levels were relatively easy, but as the levels peaked up, the difficulty gained heights.
 
-Currently I am on level 5 and just have one more label to go.
+Currently I am almost finish my level 4 and then just have one more label to go.
 ![foobar](https://user-images.githubusercontent.com/43373436/116601839-c1440080-a94c-11eb-9dda-44fd85f76efb.jpg)
 
 # Level 1
