@@ -20,7 +20,6 @@ Currently I am almost finish my level 4 and then just have one more label to go.
 # Level 3
 1. Prepare_the_Bunnies_Escape([Prepare_the_Bunnies_Escape.py](https://github.com/iamlaboniraz/my-google-foobar-experience/blob/master/level03_01_Prepare_the_Bunnies_Escape.py))
 2. Find_the_Access_Codes([Find_the_Access_Codes.py](https://github.com/iamlaboniraz/my-google-foobar-experience/blob/master/level03_02_Find_the_Access_Codes.py) | [Find_the_Access_Codes.txt](https://github.com/iamlaboniraz/my-google-foobar-experience/blob/master/level03_02_Find_the_Access_Codes.txt))
-At this point, I was offered to send my solutions to a Google recruiter. Checkout the questionnaire.md for details.
 3. Fuel_Injection_Perfection([Fuel_Injection_Perfection.py](https://github.com/iamlaboniraz/my-google-foobar-experience/blob/master/level03_03_Fuel_Injection_Perfection.py) | [Fuel_Injection_Perfection.txt](https://github.com/iamlaboniraz/my-google-foobar-experience/blob/master/level03_03_Fuel_Injection_Perfection.txt))
 
 Completing level 3, I had to submit my personal details with a potential recruiter for a future interview. The Google Foobar is presumably still hiring and its needed to submit solution either in Python or Java. I don’t know about the future upcomings for this, but to be honest I really enjoyed the challenges. Looking forward to solve more.
