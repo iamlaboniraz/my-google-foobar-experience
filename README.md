@@ -12,11 +12,11 @@ I already finished all level except level 5.
 # Level 1
 1. Solar Doomsday([Solar_Doomsday.py](https://github.com/iamlaboniraz/my-google-foobar-experience/blob/master/level01_Solar_Doomsday.py) | [Solar_Doomsday.txt](https://github.com/iamlaboniraz/my-google-foobar-experience/blob/master/level01_Solar_Doomsday.txt))
 # Level 2
-1. 1. Power_Hungry([Power_Hungry.py](https://github.com/iamlaboniraz/my-google-foobar-experience/blob/master/level02_01_Power_Hungry.py) | [Power_Hungry.txt](https://github.com/iamlaboniraz/my-google-foobar-experience/blob/master/level02_01_Power_Hungry.txt))
+1. Power_Hungry([Power_Hungry.py](https://github.com/iamlaboniraz/my-google-foobar-experience/blob/master/level02_01_Power_Hungry.py) | [Power_Hungry.txt](https://github.com/iamlaboniraz/my-google-foobar-experience/blob/master/level02_01_Power_Hungry.txt))
 2.En_Route_Salute([En_Route_Salute.py](https://github.com/iamlaboniraz/my-google-foobar-experience/blob/master/level02_02_En_Route_Salute.py) | [En_Route_Salute.txt](https://github.com/iamlaboniraz/my-google-foobar-experience/blob/master/level02_02_En_Route_Salute.txt))
 # Level 3
 1. Prepare_the_Bunnies_Escape([Prepare_the_Bunnies_Escape.py](https://github.com/iamlaboniraz/my-google-foobar-experience/blob/master/level03_01_Prepare_the_Bunnies_Escape.py))
-2.Find_the_Access_Codes([Find_the_Access_Codes.py](https://github.com/iamlaboniraz/my-google-foobar-experience/blob/master/level03_02_Find_the_Access_Codes.py) | [Find_the_Access_Codes.txt](https://github.com/iamlaboniraz/my-google-foobar-experience/blob/master/level03_02_Find_the_Access_Codes.txt))
+2. Find_the_Access_Codes([Find_the_Access_Codes.py](https://github.com/iamlaboniraz/my-google-foobar-experience/blob/master/level03_02_Find_the_Access_Codes.py) | [Find_the_Access_Codes.txt](https://github.com/iamlaboniraz/my-google-foobar-experience/blob/master/level03_02_Find_the_Access_Codes.txt))
 At this point, I was offered to send my solutions to a Google recruiter. Checkout the questionnaire.md for details.
 3. Fuel_Injection_Perfection([Fuel_Injection_Perfection.py](https://github.com/iamlaboniraz/my-google-foobar-experience/blob/master/level03_03_Fuel_Injection_Perfection.py) | [Fuel_Injection_Perfection.txt](https://github.com/iamlaboniraz/my-google-foobar-experience/blob/master/level03_03_Fuel_Injection_Perfection.txt))
 
