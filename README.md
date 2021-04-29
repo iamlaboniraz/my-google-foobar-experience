@@ -5,8 +5,6 @@
 [Google Foo Bar](https://foobar.withgoogle.com/) is Google's secret recruiting process embedded within their search engine. 
 There are 5 levels, each with a different number of challenges.
 
-I've triggered the prompt twice by searching for "python list comprehension". Each time, the page split open to reveal the message, "You're speaking our language. Up for a challenge?"
-
 # My Challenge Questions
 
 The challenge consists of 5 levels consisting of algorithm problems. It was really a great experience so far. The first few levels were relatively easy, but as the levels peaked up, the difficulty gained heights.
