@@ -1,5 +1,6 @@
 # Google Foobar
-![foobar](![foober-cha](https://user-images.githubusercontent.com/43373436/116603296-9b1f6000-a94e-11eb-9d83-bb76628410b6.PNG))
+![foober-cha](https://user-images.githubusercontent.com/43373436/116603296-9b1f6000-a94e-11eb-9d83-bb76628410b6.PNG)
+
 
 Google Foo Bar is Google's secret recruiting process embedded within their search engine. 
 There are 5 levels, each with a different number of challenges.
