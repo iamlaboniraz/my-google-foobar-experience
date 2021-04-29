@@ -7,7 +7,7 @@ There are 5 levels, each with a different number of challenges.
 
 # My Challenge Questions
 
-The challenge consists of 5 levels consisting of algorithm problems. It was really a great experience so far. The first few levels were relatively easy, but as the levels peaked up, the difficulty gained heights.
+The challenge consists of 5 levels consisting of algorithm problems. It was really a great experience so far. The first few levels were relatively easy, but as the levels peaked up, the difficulty gained heights. I spent lot of hours for finishing every challenge.
 
 Currently I am almost finish my level 4 and then just have one more label to go.
 ![foobar](https://user-images.githubusercontent.com/43373436/116601839-c1440080-a94c-11eb-9dda-44fd85f76efb.jpg)
@@ -27,4 +27,5 @@ Completing level 3, I had to submit my personal details with a potential recruit
 
 # Level 4
 1. Free_the_bunny_Prisoners([Free_the_bunny_Prisoners.py](https://github.com/iamlaboniraz/my-google-foobar-experience/blob/master/level04_01_Free_the_bunny_Prisoners.py) | [Free_the_bunny_Prisoners.txt](https://github.com/iamlaboniraz/my-google-foobar-experience/blob/master/level04_01_Free_the_bunny_Prisoners.txt))
+2. [Comming soon...]
 
